@@ -1,2 +1,4 @@
 # supervised-machine-learning
-SWRU Bootcamp Supervised ML Homework
+CWRU Bootcamp Supervised ML Homework
+
+hello world!
